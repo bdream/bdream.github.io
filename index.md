@@ -12,3 +12,5 @@ Hi, I'm Dmitry Belov. I'm software engineer.
 - ["Yet Another Randomizer"](https://bdream.github.io/yet-another-randomizer/)
 - ["Nameless" Book Club public page](http://namelessbookclub.tilda.ws/)
 - ["The Mystic 8 Ball" bot in Telegram](https://t.me/mystic8ballbot)
+- ["The Birds" VR game for cardboard](https://youtu.be/S0T1iu7M4yQ)
+- ["English Challenge" project for learning English language](https://youtu.be/cWHh_JEYQB4)
