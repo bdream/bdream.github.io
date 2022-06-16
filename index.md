@@ -1,6 +1,7 @@
 ## Welcome to My Personal Page
 
-Hi, I'm Dmitry Belov. I'm software engineer.
+Hi, I'm Dmitry Belov. I'm skilled, result-oriented Java Software Development Engineer with experience in corporate, web software development; seeking for challenging projects in the innovative technologies.
+Dedicated to architect and develop software applications.
 
 ### My LinkedIn profile
 
